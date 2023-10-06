@@ -1,5 +1,7 @@
 # Sppu Parser (Hacktoberfest 23)
 
+![hf10_banner_1032x600.png](content/hf10_banner_1032x600.png)
+
 ## **Project Overview**
 
 The project involves working with PDF files released by SPPU (Savitribai Phule Pune University) for each college per semester. These PDF files contain a variety of information related to students and their academic performance, including:
