@@ -3,7 +3,7 @@
 ## **Quickstart** 
 Launch the project in Google Colab by clicking the button below to get a gist of the project.
 
-<a target="_blank" href="https://colab.research.google.com/github/https://drive.google.com/file/d/13tfUtgR4A9crGEnfePE3zIZfcweyjv7p/view?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/drive/1Q0_wXCs2qIsuyEAONg1uENe0ABsu89bl?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
