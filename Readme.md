@@ -1,4 +1,13 @@
-# Sppu Parser (Hacktoberfest 23)
+# Sppu Parser (Hacktoberfest 23) 
+
+## **Quickstart** 
+Launch the project in Google Colab by clicking the button below to get a gist of the project.
+
+<a target="_blank" href="https://colab.research.google.com/github/https://drive.google.com/file/d/13tfUtgR4A9crGEnfePE3zIZfcweyjv7p/view?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+ Alternatively visit the [Project Wiki](https://github.com/notcostheta/sppu-parser/wiki/Project-Setup) to setup your local environment and get started with contributing to the project.
 
 ## **Project Overview**
 
@@ -15,8 +24,6 @@ Develop a Python program that can automatically parse the PDF files provided by 
 ### **2. Data Analysis and Visualization**
 
 Create a data pipeline that processes the parsed data to derive insights and generate graphs or visualizations to facilitate a better understanding of the academic performance of students.
-
-Visit the [Project Wiki](https://github.com/notcostheta/sppu-parser/wiki/Project-Setup) to setup your local environment and get started with the project.
 
 ## **Todo List**
 - [ ] Make the project colab-notebook friendly
