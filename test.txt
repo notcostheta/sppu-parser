@@ -1,0 +1,16 @@
+PAGE :- 1           SAVITRIBAI PHULE PUNE UNIVERSITY ,S.E.(2019 CREDIT PAT.) EXAMINATION, APRIL/MAY 2021             DATE : 23 AUG 2021    
+COLLEGE: [CEGP014270] - DR. D.Y.PATIL INST. OF TECH. PUNE                
+BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)                  
+..................................................................................................................................
+SEAT NO.: S190243001 NAME : AASHUTOSH SANJAYRAO GUNTURKAR           MOTHER : SHITAL SANJAYRAO GUNTURKARPRN :71907142K CLG.: DYPIT[24]
+COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
+SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
+204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
+204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
+204183 ELECTRICAL CIRCUITS              030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+SEM.:2
+204191 SIGNALS & SYSTEMS              * 021/030  070/070  091/100    ---      ---      ---    91   03     O   10  30  --- ---
+204191 SIGNALS & SYSTEMS              *   ---      ---      ---    021/025    ---      ---    84   01     A   09  09  --- ---
+204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+FIRST YEAR SGPA : 9, TOTAL CREDITS EARNED : 44

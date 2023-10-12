@@ -1,4 +1,4 @@
-# Sppu Parser (Hacktoberfest 23) 
+# Sppu Parser
 
 ## **Quickstart** 
 Launch the project in Google Colab by clicking the button below to get a gist of the project.

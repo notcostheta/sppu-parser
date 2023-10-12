@@ -1,0 +1,92 @@
+PAGE :- 1           SAVITRIBAI PHULE PUNE UNIVERSITY ,S.E.(2019 CREDIT PAT.) EXAMINATION, APRIL/MAY 2021             DATE : 23 AUG 2021    
+COLLEGE: [CEGP014270] - DR. D.Y.PATIL INST. OF TECH. PUNE                
+BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)                  
+..................................................................................................................................
+SEAT NO.: S190243001 NAME : AASHUTOSH SANJAYRAO GUNTURKAR           MOTHER : SHITAL SANJAYRAO GUNTURKARPRN :71907142K CLG.: DYPIT[24]
+COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
+SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ... # start of sem 1 block
+204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
+204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
+204183 ELECTRICAL CIRCUITS              030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+SEM.:2 # start of sem 2 block
+204191 SIGNALS & SYSTEMS              * 021/030  070/070  091/100    ---      ---      ---    91   03     O   10  30  --- ---
+204191 SIGNALS & SYSTEMS              *   ---      ---      ---    021/025    ---      ---    84   01     A   09  09  --- ---
+204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+FIRST YEAR SGPA : 9, TOTAL CREDITS EARNED : 44 # end of sem2 block
+# End of text file
+
+The above is the contents of 'test.txt' file, i want you to use python to iterate over each line and check for certain conditions to apply some functions
+The functions I'm going to explain are written already I just want you to implement those for me
+the first function is process_string_block() which takes a line and converts it into a list
+the second function is merge_mother_name_prn() and the third function is merge_subject_name() both of which just make a compressed list, and need to be applied on the strings only after they have been through the process_string_block() function function
+
+The hashtags in the test.txt are manually added by me for your reference,
+This is the logic you would be applying
+1. iterate over each line
+2. if the line start's with 'SEAT' apply process_string_block() and (merge_mother_name_prn() function to the line, then store the line in a list
+3. look for the line that strats with 'SEM:.1' then the line that starts with 'SEM:.2' and then the line that starts with 'FIRST', these 3 conditions will act as a pivot for you, the lines that are between these three pivots are the lines youre supposed to apply the process_string_block() and merge_subject_name() function to.
+4. make sure that you've applied the merge_subject_name() function to both the blocks, the block between SEM:.1 and SEM:.2 and the block between SEM:.2 and FIRST
+5. after you have applied the functions to the lines between the pivots, store them in the same list in logic no.2
+
+Here are the functions, but please note that they are only for your reference and they should not be included in your code
+def merge_name_mother_prn(result_list):
+    # Find the index of "NAME" and "MOTHER"
+    name_index = result_list.index("NAME")
+    mother_index = result_list.index("MOTHER")
+
+    # Find the indices between "NAME" and "MOTHER"
+    name_to_mother_indices = list(range(name_index + 1, mother_index))
+    name_to_mother_merged = " ".join(result_list[i] for i in name_to_mother_indices)
+    result_list[name_index + 1 : mother_index] = [name_to_mother_merged]
+
+    mother_index = result_list.index("MOTHER")
+    prn_index = result_list.index("PRN")
+    mother_to_prn_indices = list(range(mother_index + 1, prn_index))
+    mother_to_prn_merged = " ".join(result_list[i] for i in mother_to_prn_indices)
+
+    result_list[mother_index + 1 : prn_index] = [mother_to_prn_merged]
+
+    return result_list
+
+def merge_subject_name(lst):
+    # Find the start and end indices
+    start_index = 1
+    end_index = -13  # 13th item from the end, including the 0th item
+
+    # Slice the list and join the elements
+    merged_items = (
+        " ".join(lst[start_index:end_index]) if start_index < len(lst) else ""
+    )
+
+    # Replace the merged items in the list
+    lst[start_index:end_index] = [merged_items]
+
+    return lst
+
+def process_string_block(string_block):
+    # Convert the string block into a list, and remove empty strings
+    string_list = [s for s in string_block.split(" ") if s]
+    # Remove all the ":" characters
+    string_list = [s.replace(":", "") for s in string_list]
+    string_list = [s.replace("*", "") for s in string_list]
+    # Remove all the empty strings
+    string_list = [s for s in string_list if s]
+
+    # Check if there are at least 4 items in the list
+    if len(string_list) >= 4:
+        # Get the -4th index item
+        item_to_split = string_list[-4]
+        # Separate the last 3 digits
+        last_3_digits = item_to_split[-3:]
+        # Remove the last 3 digits from the item
+        item_without_last_3_digits = item_to_split[:-3]
+
+        # Insert the modified item back into the list at the same place
+        string_list[-4] = item_without_last_3_digits
+        # Insert the last 3 digits as a new item after the modified item
+        string_list.insert(-3, last_3_digits)
+
+    string_list = [s for s in string_list if s]
+
+    return string_list
