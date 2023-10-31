@@ -54,6 +54,13 @@ Create a data pipeline that processes the parsed data to derive insights and gen
             <br />
             <sub><b>Atharva Chougale</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yashjawale">
+            <img src="https://avatars.githubusercontent.com/u/63059729?v=4" width="100;" alt="yashjawale"/>
+            <br />
+            <sub><b>Yash Jawale</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
