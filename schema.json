@@ -1,0 +1,48 @@
+{
+    "students": [
+        {
+            "seat_no": "S190243001",
+            "name": "AASHUTOSH SANJAYRAO GUNTURKAR",
+            "mother": "SHITAL SANJAYRAO GUNTURKAR",
+            "prn": "71907142K",
+            "courses": [
+                {
+                    "course_name": "204181 ELECTRONIC CIRCUITS",
+                    "ise": "030/030",
+                    "ese": "046/070",
+                    "total": "076/100",
+                    "tw": "---",
+                    "pr": "---",
+                    "or": "---",
+                    "tot%": "76",
+                    "crd": "03",
+                    "grd": "B",
+                    "gp": "08",
+                    "cp": "24",
+                    "p&r": "---",
+                    "ord": "---"
+                },
+                {
+                    "course_name": "204182 DIGITAL CIRCUITS",
+                    "ise": "030/030",
+                    "ese": "060/070",
+                    "total": "090/100",
+                    "tw": "---",
+                    "pr": "---",
+                    "or": "---",
+                    "tot%": "90",
+                    "crd": "03",
+                    "grd": "O",
+                    "gp": "10",
+                    "cp": "30",
+                    "p&r": "---",
+                    "ord": "---"
+                },
+          ...
+            ],
+            "sgpa": "9",
+            "total_credits_earned": "44"
+        },
+      ...
+    ]
+}

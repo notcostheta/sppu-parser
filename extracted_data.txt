@@ -4,7 +4,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243001 NAME : AASHUTOSH SANJAYRAO GUNTURKAR           MOTHER : SHITAL SANJAYRAO GUNTURKARPRN :71907142K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -36,7 +35,6 @@ FIRST YEAR SGPA : 9, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243002 NAME : ADMANE PARTH SUDHIR                     MOTHER : RUPALI SUDHIR ADMANE     PRN :72022819M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -73,7 +71,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243003 NAME : ALKA GUPTA                              MOTHER : URMILA GUPTA             PRN :72022830B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -105,7 +102,6 @@ FIRST YEAR SGPA : 9.52, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243004 NAME : AMUP AKASH HANUMANT                     MOTHER : AMUP SAVITA HANUMANT     PRN :72022834E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  032/070  062/100    ---      ---      ---    62   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
@@ -142,7 +138,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243005 NAME : ANIKET ROY                              MOTHER : NAMITA ROY               PRN :72022837K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -174,7 +169,6 @@ FIRST YEAR SGPA : 9.25, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243006 NAME : APARNA SAKODE                           MOTHER : SUSHMA                   PRN :72022843D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -211,7 +205,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243007 NAME : ARYANSINH SANTOSHSINH CHAUHAN           MOTHER : ARCHANA SANTOSHSINH CHAUHANPRN :71907017B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -243,7 +236,6 @@ FIRST YEAR SGPA : 9.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243008 NAME : ASHISH KUMAR YADAV                      MOTHER : SUBHAVATI YADAV          PRN :72022845L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -280,7 +272,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243009 NAME : ASHTEKAR CHAITANYA SHRIDHAR             MOTHER : SAYALEE SHRIDHAR ASHTEKARPRN :72022847G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -312,7 +303,6 @@ FIRST YEAR SGPA : 9.32, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243010 NAME : AUSARE SANJAY SUDHIR                    MOTHER : GEETA SUDHIR AUSARE      PRN :72022851E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -349,7 +339,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243011 NAME : AUSMITA BISWAS                          MOTHER : SHUSMITA BISWAS          PRN :72022852C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -381,7 +370,6 @@ FIRST YEAR SGPA : 9.34, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243012 NAME : AYUSH KUMAR                             MOTHER : YOGITA GUPTA             PRN :72022855H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -418,7 +406,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243013 NAME : AYUSH MAHORE                            MOTHER : ARCHANA MAHORE           PRN :72022856F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -450,7 +437,6 @@ FIRST YEAR SGPA : 9.30, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243014 NAME : BAHURE SHUBHAM CHAINSING                MOTHER : NIRMALA BAHURE           PRN :72022863J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -487,7 +473,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243015 NAME : BANDALE SHIVANI CHANDRAKANT             MOTHER : SUNITA CHANDRAKANT BANDALEPRN :72022867M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -519,7 +504,6 @@ FIRST YEAR SGPA : 9.27, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243016 NAME : BANKAR ANUJ DNYANESHWAR                 MOTHER : ARTI DNYANESHWAR BANKAR  PRN :72022868K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -556,7 +540,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243017 NAME : BANKHELE VEDANTI RAJENDRA               MOTHER : ROHINI                   PRN :72162806M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -588,7 +571,6 @@ FIRST YEAR SGPA : 8.52, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243018 NAME : BARHATE BHUVANESHWARI JITENDRA          MOTHER : NAYANA JITENDRA BARHATE  PRN :72162807K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -625,7 +607,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243019 NAME : BEDRE AKSHAY ANKUSH                     MOTHER : BEDRE SHEELA ANKUSH      PRN :72022874D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -657,7 +638,6 @@ FIRST YEAR SGPA : 8.91, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243020 NAME : BENDALE TUSHAR VILAS                    MOTHER : VENU VILAS BENDALE       PRN :72022876L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  049/070  079/100    ---      ---      ---    79   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -694,7 +674,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243021 NAME : BHALWANKAR PRATHMESH HEMANT             MOTHER : BHALWANKAR VRUSHALI HEMANTPRN :72162808H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  031/070  061/100    ---      ---      ---    61   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -726,7 +705,6 @@ FIRST YEAR SGPA : 8.95, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243022 NAME : BHANGALE LOCHAN SUBHASH                 MOTHER : BHANGALE SHAILAJA SUBHASHPRN :72022886H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -763,7 +741,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243023 NAME : BHANJA AMRITSAWAN                       MOTHER : SASMITA BHANJA           PRN :72022889B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -795,7 +772,6 @@ FIRST YEAR SGPA : 9.34, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243024 NAME : BHARADWAJ NISHANT PIUSH                 MOTHER : HEMLATA PIUSH BHARADWAJ  PRN :72022890F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -832,7 +808,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243025 NAME : BHARAMBE PRATHMESH CHANDRASHEKHAR       MOTHER : BHARAMBE ANITA CHANDRASHEKHARPRN :72022891D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -864,7 +839,6 @@ FIRST YEAR SGPA : 9.25, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243026 NAME : BHAT SUCHIT JAGDISH                     MOTHER :  JAYASHRI                PRN :72022893L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -901,7 +875,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243027 NAME : BHAVANA JOSHI                           MOTHER : KIRAN JOSHI              PRN :72022894J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  034/070  064/100    ---      ---      ---    64   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -933,7 +906,6 @@ FIRST YEAR SGPA : 9.27, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243028 NAME : BHISE SHUBHAM ABASAHEB                  MOTHER : SWATI                    PRN :72022895G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
@@ -970,7 +942,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243029 NAME : BHOSALE ABHISHEK CHANDRAKANT            MOTHER : ANJALI                   PRN :72162809F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 028/030  062/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -1002,7 +973,6 @@ FIRST YEAR SGPA : 8.73, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243030 NAME : BHUJBAL ANKITA SOMNATH                  MOTHER : BHUJBAL BABY SOMNATH     PRN :72162810K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -1039,7 +1009,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243031 NAME : BHUJBAL SUJIT UTTAM                     MOTHER : BHUJBAL SUJATA UTTAM     PRN :71906985J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 026/030  052/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
@@ -1071,7 +1040,6 @@ FIRST YEAR SGPA : 8.59, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243032 NAME : BONDRE PRATIKSHA PARMESHWAR             MOTHER : BONDRE REKHA PARMESHWAR  PRN :72022909L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -1108,7 +1076,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243033 NAME : BOROLE VIBHAVARI ANIL                   MOTHER : BOROLE SARIKA ANIL       PRN :72022911B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -1140,7 +1107,6 @@ FIRST YEAR SGPA : 9.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243034 NAME : BULUSU AISHWARYA SHREE                  MOTHER : BULUSU PADMINI           PRN :72022915E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -1177,7 +1143,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243035 NAME : CHAUDHARI BHAVESH RAJENDRA              MOTHER : CHAUDHARI VAISHALI RAJENDRAPRN :72022919H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -1209,7 +1174,6 @@ FIRST YEAR SGPA : 8.86, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243036 NAME : CHAUDHARI JAYKUMAR RAJENDRA             MOTHER : PREMLATA CHAUDHARI       PRN :72022921K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -1246,7 +1210,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243037 NAME : CHAUDHARI KINAY YOGESH                  MOTHER : SUWARNA                  PRN :71907013K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              017/030  045/070  062/100    ---      ---      ---    62   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 018/030  070/070  088/100    ---      ---      ---    88   03     A   09  27  --- ---
@@ -1278,7 +1241,6 @@ FIRST YEAR SGPA : 8.02, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243038 NAME : CHAVAN SAURABH DHONDIRAM                MOTHER : ANITA CHAVAN             PRN :72022934M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -1315,7 +1277,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243039 NAME : CHAVAN VISHAL MANOHAR                   MOTHER : CHAYA MANOHAR CHAVAN     PRN :72022937F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  029/070  059/100    ---      ---      ---    59   03     D   06  18  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -1347,7 +1308,6 @@ FIRST YEAR SGPA : 8.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243040 NAME : CHEMATE SUDARSHAN PANDURANG             MOTHER : REKHA PANDURANG CHEMATE  PRN :72022941D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -1384,7 +1344,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243041 NAME : CHINCHWADE ATHARVA DEVENDRA             MOTHER : CHINCHWADE PADMAJA DEVENDRAPRN :72162811H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -1416,7 +1375,6 @@ FIRST YEAR SGPA : 8.95, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243042 NAME : CHOPADE NEHAL DIPAK                     MOTHER : LEENA DIPAK CHOPADE      PRN :72022950C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -1453,7 +1411,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243043 NAME : CHUMBALKAR SANSKRUTI NILESH             MOTHER : SWAPNALI                 PRN :72022959G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -1485,7 +1442,6 @@ FIRST YEAR SGPA : 8.77, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243044 NAME : DAPHAL RUTUJA MOHAN                     MOTHER : DAPHAL RANI MOHAN        PRN :72022969D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -1522,7 +1478,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243045 NAME : DARSHAN BOIPAI                          MOTHER : PANGELA BOIPAI           PRN :72022972D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  036/070  066/100    ---      ---      ---    66   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -1554,7 +1509,6 @@ FIRST YEAR SGPA : 8.45, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243046 NAME : DAYANAND                                MOTHER : CHHAYA                   PRN :72162812F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  036/070  066/100    ---      ---      ---    66   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -1591,7 +1545,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243047 NAME : DEEPAK SAINI                            MOTHER : KRISHANA SAINI           PRN :71907051B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -1623,7 +1576,6 @@ FIRST YEAR SGPA : 8.93, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243048 NAME : DESALE DHANASHREE PARASHARAM            MOTHER : MINAKSHI DESALE          PRN :72022982M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -1660,7 +1612,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243049 NAME : DESHMUKH RUTUJA GANGADHAR               MOTHER : ASHA                     PRN :72022988L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -1692,7 +1643,6 @@ FIRST YEAR SGPA : 9.34, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243050 NAME : DESHMUKH YASH RAVINDRA                  MOTHER : SHEETAL RAVINDRA DESHMUKHPRN :72022990B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  038/070  068/100    ---      ---      ---    68   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -1729,7 +1679,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243051 NAME : DHAGE PRIYANKA PRAMOD                   MOTHER : JYOTI PRAMOD DHAGE       PRN :72022995C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -1761,7 +1710,6 @@ FIRST YEAR SGPA : 9.32, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243052 NAME : DINALI PANDA                            MOTHER : SUNITA PANDA             PRN :72023010B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  049/070  079/100    ---      ---      ---    79   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 027/030  057/070  084/100    ---      ---      ---    84   03     A   09  27  --- ---
@@ -1798,7 +1746,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243053 NAME : DUKARE TEJAS VILAS                      MOTHER : KALPANA VILAS DUKARE     PRN :72162813D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -1830,7 +1777,6 @@ FIRST YEAR SGPA : 9.16, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243054 NAME : FARFAT ABHIJIT BHIMRAO                  MOTHER : SINDHUBAI BHIMRAO FARFAT PRN :72023020K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -1867,7 +1813,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243055 NAME : GAVITRE PANKAJ JANARDHAN                MOTHER : GAVITRE VIJAYA JANARDHAN PRN :72023036F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
@@ -1899,7 +1844,6 @@ FIRST YEAR SGPA : --, TOTAL CREDITS EARNED : 41[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243056 NAME : GAWALI PRATIK ANIL                      MOTHER : SUSHAMA                  PRN :71907113F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -1936,7 +1880,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243057 NAME : GILBILE ANIRUDDHA VIJAY                 MOTHER : CHAYA GILBILE            PRN :72023052H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
@@ -1968,7 +1911,6 @@ FIRST YEAR SGPA : 9.16, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243058 NAME : GODHAM SANJAY RAMESH                    MOTHER : SHANTA                   PRN :72023055B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  039/070  069/100    ---      ---      ---    69   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -2005,7 +1947,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243059 NAME : HARSH ANAND                             MOTHER : ANJANA SAHU              PRN :72023071D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -2037,7 +1978,6 @@ FIRST YEAR SGPA : 9.36, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243060 NAME : HARSHI TALATI                           MOTHER : RACHITA TALATI           PRN :72023073L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -2074,7 +2014,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243061 NAME : HARSHITA TRIVEDI                        MOTHER : NISHA TRIVEDI            PRN :72023074J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -2106,7 +2045,6 @@ FIRST YEAR SGPA : 9.57, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243062 NAME : HAWLE DIVYA VITTHAL                     MOTHER : HAWLE LANKA VITTHAL      PRN :72162814B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -2143,7 +2081,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243063 NAME : HUMBE SHUBHASHRI SUDHAKAR               MOTHER : HUMBE SAVITA SUDHAKAR    PRN :72023086B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -2175,7 +2112,6 @@ FIRST YEAR SGPA : 9.27, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243064 NAME : INGLE NITIN BHAGWAN                     MOTHER : USHA                     PRN :71907420H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  039/070  069/100    ---      ---      ---    69   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
@@ -2212,7 +2148,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243065 NAME : JADHAV AADESH VIJAYKUMAR                MOTHER : KAVITA VIJAYKUMAR JADHAV PRN :72023092G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -2244,7 +2179,6 @@ FIRST YEAR SGPA : 9.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243066 NAME : JADHAV ANKITA DIPAKRAO                  MOTHER : JADHAV JYOTSNA DIPAKRAO  PRN :72023094C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -2281,7 +2215,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243067 NAME : JADHAV ATUL GAJANAN                     MOTHER : NANDABAI                 PRN :72023095M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -2313,7 +2246,6 @@ FIRST YEAR SGPA : 8.45, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243068 NAME : JADHAV JAY SURYAKANT                    MOTHER : SHUBHANGINI SURYAKANT JADHAVPRN :72023097H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -2350,7 +2282,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243069 NAME : JADHAV SAURABH DAYARAM                  MOTHER : VIMAL                    PRN :72023104D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -2382,7 +2313,6 @@ FIRST YEAR SGPA : 8.91, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243070 NAME : JADHAVAR VAIBHAV MARUTI                 MOTHER : MANISHA MARUTI JADHAVAR  PRN :71907190K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  031/070  061/100    ---      ---      ---    61   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -2419,7 +2349,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243071 NAME : JAGTAP SHRADDHA BHAGIRATH               MOTHER : RADHA                    PRN :72023109E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  031/070  061/100    ---      ---      ---    61   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -2451,7 +2380,6 @@ FIRST YEAR SGPA : 8, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243072 NAME : JAGTAP SIDDHI DATTATRAY                 MOTHER : BHARATI                  PRN :72023110J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -2488,7 +2416,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243073 NAME : JAGTAP VAISHNAVI MADHAVRO               MOTHER : KALPANA MADHAVRAO JAGTAP PRN :72162815L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 029/030  060/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -2520,7 +2447,6 @@ FIRST YEAR SGPA : 8.64, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243074 NAME : JAMGADE ANIMESH ARUN                    MOTHER : BABITA ARUN JAMGADE      PRN :72023115K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -2557,7 +2483,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243075 NAME : JATHAR SONAL SUDHIR                     MOTHER : VANDANA                  PRN :72023116H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -2589,7 +2514,6 @@ FIRST YEAR SGPA : 9.20, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243076 NAME : JAWALE KUMAR BHASKAR                    MOTHER : SANGITA                  PRN :72162816J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -2626,7 +2550,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243077 NAME : JAWALE SHREYA NOMDAS                    MOTHER : JAWALE JYOTI NOMDAS      PRN :72023117F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -2658,7 +2581,6 @@ FIRST YEAR SGPA : 9.30, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243078 NAME : JAYBHAYE KRUSHNA SUDHAKAR               MOTHER : VANDANA SUDHAKAR JAYBHAYEPRN :72023119B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -2695,7 +2617,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243079 NAME : JOSHI KAUSTUBH GOPAL                    MOTHER : CHHAYA GOPAL JOSHI       PRN :72023126E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -2727,7 +2648,6 @@ FIRST YEAR SGPA : 9.14, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243080 NAME : JOSHI KUNAL CHANDRAKANT                 MOTHER : SANGITA JOSHI            PRN :72023127C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -2764,7 +2684,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243081 NAME : KADAM ROHIT ARVIND                      MOTHER : KADAM VANDANA ARVIND     PRN :72023136B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  034/070  064/100    ---      ---      ---    64   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
@@ -2796,7 +2715,6 @@ FIRST YEAR SGPA : 8.36, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243082 NAME : KADLAG RUTUJA DILIP                     MOTHER : MOHINI                   PRN :72023140L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -2833,7 +2751,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243083 NAME : KALE OM SUNIL                           MOTHER : SWATI SUNIL KALE         PRN :72023147H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  036/070  066/100    ---      ---      ---    66   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -2865,7 +2782,6 @@ FIRST YEAR SGPA : 8.91, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243084 NAME : KALE TEJAS JAGANNATH                    MOTHER : ARUNA                    PRN :71907244B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  034/070  064/100    ---      ---      ---    64   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
@@ -2902,7 +2818,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243085 NAME : KALYANI GUPTA                           MOTHER : PARWATI GUPTA            PRN :72023151F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -2934,7 +2849,6 @@ FIRST YEAR SGPA : 9.82, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243086 NAME : KAMBLE PAYAL PRABHAKAR                  MOTHER : VAISHALI                 PRN :72023153B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              026/030  039/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -2971,7 +2885,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243087 NAME : KAMBLE ANURAG PRAVIN                    MOTHER : ADITI PRAVIN KAMBLE      PRN :72162817G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -3003,7 +2916,6 @@ FIRST YEAR SGPA : 9.36, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243088 NAME : KANTHALE BHAVANA SANTOSH                MOTHER : MANJU KANTHALE           PRN :72162818E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
@@ -3040,7 +2952,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243089 NAME : KANTHALE ONKAR SUNIL                    MOTHER : ARCHANA KANTHALE         PRN :72023164H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -3072,7 +2983,6 @@ FIRST YEAR SGPA : 8.86, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243090 NAME : KAPASE DNYANESHWAR BIBHISHAN            MOTHER : LATIKA                   PRN :72023166D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -3109,7 +3019,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243091 NAME : KARAN MOHNANI                           MOTHER : VARSHA MOHNANI           PRN :72023169J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -3141,7 +3050,6 @@ FIRST YEAR SGPA : 9.43, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243092 NAME : KARTHIK NATARAJAN                       MOTHER : CHITRA NATARAJAN         PRN :72023171L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -3178,7 +3086,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243093 NAME : KARTIK RATHI                            MOTHER : DEEPA RATHI              PRN :72023173G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  028/070  058/100    ---      ---      ---    58   03     D   06  18  --- ---
 204182 DIGITAL CIRCUITS                 030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
@@ -3210,7 +3117,6 @@ FIRST YEAR SGPA : 8.66, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243094 NAME : KATYARMAL ADITYA GAJANAN                MOTHER : ALKA GAJANAN KATYARMAL   PRN :72023175C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -3247,7 +3153,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243095 NAME : KEDAR AKSHAY BHASKAR                    MOTHER : PUSHPA BHASKAR KEDAR     PRN :72023179F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  034/070  064/100    ---      ---      ---    64   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -3279,7 +3184,6 @@ FIRST YEAR SGPA : 8.82, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243096 NAME : KEDAR HRISHIKESH KISHOR                 MOTHER : KEDAR ARCHANA KISHOR     PRN :72023180K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
@@ -3316,7 +3220,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243097 NAME : KENGAR SNEHAL PRAKASH                   MOTHER : SUNANDA KENGAR           PRN :72023183D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -3348,7 +3251,6 @@ FIRST YEAR SGPA : 8.77, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243098 NAME : KERKAR RUTUJA RAJESH                    MOTHER : KERKAR SHUBHANGI RAJESH  PRN :72023184B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 029/030  060/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -3385,7 +3287,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243099 NAME : KESKAR VAIBHAV SHIVAJI                  MOTHER : SHANTA SHIVAJI KESKAR    PRN :71907267M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -3417,7 +3318,6 @@ FIRST YEAR SGPA : 8.45, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243100 NAME : KHACHANE SAYALI AVINASH                 MOTHER : SEEMA                    PRN :72023186J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -3454,7 +3354,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243101 NAME : KHAIRNAR DARSHANA SHANTARAM             MOTHER : VANDANA                  PRN :72023192C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  049/070  079/100    ---      ---      ---    79   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
@@ -3486,7 +3385,6 @@ FIRST YEAR SGPA : 9.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243102 NAME : KHAMKAR PRATHAMESH ANKUSH               MOTHER : KHAMKAR ALKA ANKUSH      PRN :72023193M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -3523,7 +3421,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243103 NAME : KHANDARE SUMIT MAROTI                   MOTHER : MAMTA MAROTI KHANDARE    PRN :72023198B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -3555,7 +3452,6 @@ FIRST YEAR SGPA : 9.11, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243104 NAME : KHARADE NIRANJAN SHRIRANG               MOTHER : RATNAMALA                PRN :72035911C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -3592,7 +3488,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243105 NAME : KHATRI TANUJA DEEPAK                    MOTHER : KAMLA KHATRI             PRN :72023201F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -3624,7 +3519,6 @@ FIRST YEAR SGPA : 9.41, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243106 NAME : KHEDKAR ARPITA DADASAHEB                MOTHER : KHEDKAR MANISHA DADASAH  PRN :72023202D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -3661,7 +3555,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243107 NAME : KHURPE SOURAV SURESH                    MOTHER : SUJATA SURESH KHURPE     PRN :72023206G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -3693,7 +3586,6 @@ FIRST YEAR SGPA : 9.16, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243108 NAME : KOLI KARTIK VIKAS                       MOTHER : POOJA VIKAS KOLI         PRN :72023209M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -3730,7 +3622,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243109 NAME : KORE SIDDHANT SURYAKANT                 MOTHER : SANJIVANI                PRN :72023214H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  036/070  066/100    ---      ---      ---    66   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -3762,7 +3653,6 @@ FIRST YEAR SGPA : 8.84, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243110 NAME : KUDALE ROHAN RAJENDRA                   MOTHER : KUDALE MANISHA RAJENDRA  PRN :72162819C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -3799,7 +3689,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243111 NAME : KUMBHAR ARYAN YUVRAJ                    MOTHER : VARSHA YUVRAJ KUMBHAR    PRN :72023228H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  036/070  066/100    ---      ---      ---    66   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -3831,7 +3720,6 @@ FIRST YEAR SGPA : 9.27, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243112 NAME : KUNAL KUMAR                             MOTHER : RENU RANJAN PANDIT       PRN :72023231H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -3868,7 +3756,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243113 NAME : LAKARE PARITOSH VIJAY                   MOTHER : LAKARE VANITA VIJAY      PRN :72023238E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -3900,7 +3787,6 @@ FIRST YEAR SGPA : 9.36, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243114 NAME : LAMKHADE HARSHADA RAJENDRA              MOTHER : LAMKHADE ROHINI RAJENDRA PRN :72162820G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -3937,7 +3823,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243115 NAME : LANDE NACHIKET JITENDRA                 MOTHER : JAYA                     PRN :71907304K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -3969,7 +3854,6 @@ FIRST YEAR SGPA : 8.82, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243116 NAME : MACHPALLE SUNITA MADHAV                 MOTHER : MACHPALLE SUMAN MADHAV   PRN :72162821E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
@@ -4006,7 +3890,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243117 NAME : MAHALE SHRUTI NILESH                    MOTHER : DEEPALI                  PRN :72023257M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -4038,7 +3921,6 @@ FIRST YEAR SGPA : 9.5, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243118 NAME : MALI AKASH SANJAY                       MOTHER : MANISHA SANJAY MALI      PRN :72023258K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -4075,7 +3957,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243119 NAME : MALI RUTUJA SANJAY                      MOTHER : SANDHYA                  PRN :72023260M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -4107,7 +3988,6 @@ FIRST YEAR SGPA : 9.23, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243120 NAME : MANDAR AMARSHIN BHOPALE                 MOTHER : SHEELA BHOPALE           PRN :72023264D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -4144,7 +4024,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243121 NAME : MANE SOHAM ANIL                         MOTHER : MANE LAXMI ANIL          PRN :72023269E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  032/070  062/100    ---      ---      ---    62   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -4176,7 +4055,6 @@ FIRST YEAR SGPA : 9.05, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243122 NAME : MANTHA SHABDARTHAN PRABHUKISHAN         MOTHER : MANTHA ANITA PRABHUKISHANPRN :72023275K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
@@ -4213,7 +4091,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243123 NAME : MARATHE GAYATRI SANJAY                  MOTHER : MARATHE TANUJA SANJAY    PRN :72023276H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -4245,7 +4122,6 @@ FIRST YEAR SGPA : 9.07, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243124 NAME : MD TASHHIR                              MOTHER : BIBI TAHSEENA            PRN :72023281D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              024/030  039/070  063/100    ---      ---      ---    63   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -4282,7 +4158,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243125 NAME : MIRGE PRATIK DEVLAL                     MOTHER : RUKHMINA DEVLAL MIRGE    PRN :72023284J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
@@ -4314,7 +4189,6 @@ FIRST YEAR SGPA : 8.14, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243126 NAME : MOHANE NAYNESH TRYAMBAK                 MOTHER : UJWALA TRYAMBAK MOHANE   PRN :72023288M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
@@ -4351,7 +4225,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243127 NAME : MONDHE AJINKYA SAHEBRAO                 MOTHER : ALKA MONDHE              PRN :72023293H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -4383,7 +4256,6 @@ FIRST YEAR SGPA : 8.84, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243128 NAME : MORE AMAR SHAMRAO                       MOTHER : PARVATI                  PRN :71907365M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  28$/070  058/100    ---      ---      ---    58   03     D   06  18  ---  1$
 204182 DIGITAL CIRCUITS                 017/030  028/070  045/100    ---      ---      ---    45   03     E   05  15  --- ---
@@ -4420,7 +4292,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243129 NAME : MULE SHWETA BABAN                       MOTHER : SHAVUBAI                 PRN :72162822C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -4452,7 +4323,6 @@ FIRST YEAR SGPA : 9.14, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243130 NAME : NAIDU ASHISH KUMAR                      MOTHER : JYOTI NAIDU              PRN :72023314D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -4489,7 +4359,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243131 NAME : NAIK NIKITA SURESH                      MOTHER : SHAILA SURESH NAIK       PRN :72023316L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -4521,7 +4390,6 @@ FIRST YEAR SGPA : 9.14, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243132 NAME : NAIMISH AGRAWAL                         MOTHER : SANGITA AGRAWAL          PRN :72023317J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -4558,7 +4426,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243133 NAME : NANDRE HARSHWARDHAN RAJENDRA            MOTHER : VAISHALI                 PRN :72023325K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  049/070  079/100    ---      ---      ---    79   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -4590,7 +4457,6 @@ FIRST YEAR SGPA : 8.82, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243134 NAME : NARAWADE ABHISHEK SHANTARAM             MOTHER : SUNITA                   PRN :72023328D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -4627,7 +4493,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243135 NAME : NARAWADE MITALI RAMCHANDRA              MOTHER : NARAWADE ROHINI RAMCHANDRAPRN :72023330F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  032/070  062/100    ---      ---      ---    62   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
@@ -4659,7 +4524,6 @@ FIRST YEAR SGPA : 8.70, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243136 NAME : NARSALE ANKITA ABASAHEB                 MOTHER : NARSALE ANITA ABASAHEB   PRN :72023332B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
@@ -4696,7 +4560,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243137 NAME : NIKAM TUSHAR SUBHASH                    MOTHER : SUVARNA SUBHASH NIKAM    PRN :72023343H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -4728,7 +4591,6 @@ FIRST YEAR SGPA : 8.93, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243138 NAME : NISHAD S TAYDE                          MOTHER : MANSI S TAYDE            PRN :72023351J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -4765,7 +4627,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243139 NAME : NIVIT JOSHI                             MOTHER : KIRAN JOSHI              PRN :72023353E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 027/030  057/070  084/100    ---      ---      ---    84   03     A   09  27  --- ---
@@ -4797,7 +4658,6 @@ FIRST YEAR SGPA : 8.27, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243140 NAME : PACHLORE SAHIL NITINSINGH               MOTHER : JAYSHREE PACHLORE        PRN :72023359D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -4834,7 +4694,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243141 NAME : PADIR PRANAV PRAMOD                     MOTHER : VIJAYA                   PRN :72023361F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -4866,7 +4725,6 @@ FIRST YEAR SGPA : 9.27, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243142 NAME : PAGAR VISHAL SANDEEP                    MOTHER : RATNA                    PRN :72023363B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -4903,7 +4761,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243143 NAME : PALAK NILESH AGARWAL                    MOTHER : POONAM NILESH AGARWAL    PRN :72023366G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -4935,7 +4792,6 @@ FIRST YEAR SGPA : 9.77, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243144 NAME : PALLEWAR KEDARNATH VENKATESH            MOTHER : VIJAYALAXMI              PRN :72023369M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -4972,7 +4828,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243145 NAME : PARAS PANDITA                           MOTHER : PRANA PANDITA            PRN :72023380B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -5004,7 +4859,6 @@ FIRST YEAR SGPA : 9.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243146 NAME : PATEL ANEES SAYED                       MOTHER : RESHMA SAYED PATEL       PRN :72023384E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -5041,7 +4895,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243147 NAME : PATEL DEVESH PRAVIN                     MOTHER : SHOBHANA                 PRN :72023386M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -5073,7 +4926,6 @@ FIRST YEAR SGPA : 9.09, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243148 NAME : PATHAK RIYA SHAILENDRA                  MOTHER : SUNITA                   PRN :72023391H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  049/070  079/100    ---      ---      ---    79   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -5110,7 +4962,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243149 NAME : PATIL VIRENDRASING INDRASING            MOTHER : PATIL SAVITA INDRASING   PRN :71907484D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 028/030  049/070  077/100    ---      ---      ---    77   03     B   08  24  --- ---
@@ -5142,7 +4993,6 @@ FIRST YEAR SGPA : 8.70, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243150 NAME : PATIL VISHAKHA VIJAYSINGH               MOTHER : PATIL SHUBHANGI VIJAYSINGHPRN :72023417E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
@@ -5179,7 +5029,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243151 NAME : PAWAR MRUNAL SUNIL                      MOTHER : PAWAR VAISHALI SUNIL     PRN :72162823M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -5211,7 +5060,6 @@ FIRST YEAR SGPA : 8.80, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243152 NAME : PENTEWAR APURV SHIVAJI                  MOTHER : SHUBHANGI SHIVAJI PENTEWARPRN :72023436M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -5248,7 +5096,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243153 NAME : PETHKAR SAKSHI SHARAD                   MOTHER : PRADNYA                  PRN :72023439F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  034/070  064/100    ---      ---      ---    64   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -5280,7 +5127,6 @@ FIRST YEAR SGPA : 9.23, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243154 NAME : PHAD ADINATH KESHAV                     MOTHER : PHAD CHHAYA              PRN :72023440K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -5317,7 +5163,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243155 NAME : PHADAKE PAWAN SANJAY                    MOTHER : PHADAKE KANCHAN SANJAY   PRN :72023442F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -5349,7 +5194,6 @@ FIRST YEAR SGPA : 9.25, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243156 NAME : PILLAI YEDHU RAVI                       MOTHER : SINDHU PILLAI            PRN :72023446J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -5386,7 +5230,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243157 NAME : PISAL SNEHAL RAVINDRA                   MOTHER : SANJIVANI                PRN :72023448E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -5418,7 +5261,6 @@ FIRST YEAR SGPA : 9.16, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243158 NAME : POKHARKAR VAISHNAVI BALASAHEB           MOTHER : POOJA                    PRN :72023451E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -5455,7 +5297,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243159 NAME : PRAJAT R MANDOLKAR                      MOTHER : SHILA R MANDOLKAR        PRN :72023455H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -5487,7 +5328,6 @@ FIRST YEAR SGPA : 9.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243160 NAME : PRANITI NITIN PARMAR                    MOTHER : RAJSHRI                  PRN :72023458B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -5524,7 +5364,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243161 NAME : PRANJAL UMAKANT NIMBEKAR                MOTHER : KIRAN NIMBEKAR           PRN :72023459L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  038/070  068/100    ---      ---      ---    68   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
@@ -5556,7 +5395,6 @@ FIRST YEAR SGPA : 8.93, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243162 NAME : PRASAD ANIKET HRIDAYA                   MOTHER : SEEMA PRASAD             PRN :72023460D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -5593,7 +5431,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243163 NAME : PRASAD AYUSHANAND RAJESH                MOTHER : ANNU PRASAD              PRN :72023461B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -5625,7 +5462,6 @@ FIRST YEAR SGPA : 8.91, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243164 NAME : PRERNA BHATT                            MOTHER : LAXMI BHATT              PRN :72023463J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -5662,7 +5498,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243165 NAME : PRIYANK DHARMESHBHAI PRAJAPATI          MOTHER : DIPIKA D. PRAJAPATI      PRN :72023464G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -5694,7 +5529,6 @@ FIRST YEAR SGPA : 9.09, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243166 NAME : PUJARI SANSKRUTI RAJENDRA               MOTHER : PUJARI VIDYA RAJENDRA    PRN :72023466C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  039/070  069/100    ---      ---      ---    69   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -5731,7 +5565,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243167 NAME : RAHUL AGARWAL                           MOTHER : SHALU AGARWAL            PRN :72023474D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -5763,7 +5596,6 @@ FIRST YEAR SGPA : 9.66, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243168 NAME : RAMTEKE TANAY NARENDRA                  MOTHER : VISHAKHA RAMTEKE         PRN :71907547F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -5800,7 +5632,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243169 NAME : RAUT SANYUKTA NITIN                     MOTHER : RAUT TRUSHA NITIN        PRN :72023487F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -5832,7 +5663,6 @@ FIRST YEAR SGPA : 8.93, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243170 NAME : REETIK RAVINDRA GANDATE                 MOTHER : JAYSHREE GANDATE         PRN :72023490F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -5869,7 +5699,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243171 NAME : ROY VIPUL DEVASHISH                     MOTHER : RUPA ROY                 PRN :72023495G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
@@ -5901,7 +5730,6 @@ FIRST YEAR SGPA : 8.73, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243172 NAME : RUSHIKESH SHINDE                        MOTHER : MEENA SHINDE             PRN :72023498M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
@@ -5938,7 +5766,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243173 NAME : SACHIN SHIVAJIRAO SHINDE                MOTHER : JYOYBAI                  PRN :72162824K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  28$/070  058/100    ---      ---      ---    58   03     D   06  18  ---  1$
 204182 DIGITAL CIRCUITS                 030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
@@ -5970,7 +5797,6 @@ FIRST YEAR SGPA : 8.70, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243174 NAME : SAHA ARITTRI ABHIJIT                    MOTHER : RAJANI SAHA              PRN :72023503M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -6007,7 +5833,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243175 NAME : SALUNKE DIKSHA CHANDRAKANT              MOTHER : MAYA CHANDRAKANT SALUNKE PRN :72162825H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  28$/070  058/100    ---      ---      ---    58   03     D   06  18  ---  3$
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -6039,7 +5864,6 @@ FIRST YEAR SGPA : 9.05, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243176 NAME : SALUNKE SNEHAL SUNIL                    MOTHER : KANTA SUNIL SALUNKE      PRN :72023508B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  043/070  073/100    ---      ---      ---    73   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -6076,7 +5900,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243177 NAME : SALUNKE TEJASWINI RAVINDRA              MOTHER : SALUNKE MEENABAI RAVINDRAPRN :72023509L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -6108,7 +5931,6 @@ FIRST YEAR SGPA : 9.25, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243178 NAME : SALVE VIKAS ANIL                        MOTHER : CHHAYA                   PRN :72162826F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -6145,7 +5967,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243179 NAME : SANGOLE SUMIT RAJESH                    MOTHER : SHALU SANGOLE            PRN :72023514G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -6177,7 +5998,6 @@ FIRST YEAR SGPA : 9.11, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243180 NAME : SANKET SATISH BHUJBAL                   MOTHER : DEEPA BHUJBAL            PRN :72023517M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -6214,7 +6034,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243181 NAME : SARDA SHRADDHA SUBHASH                  MOTHER : AISHWARYA SUBHASH SARDA  PRN :72023522H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -6246,7 +6065,6 @@ FIRST YEAR SGPA : 9.70, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243182 NAME : SASTIKAR ATHARVA                        MOTHER : ALKA                     PRN :72023527J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -6283,7 +6101,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243183 NAME : SATPUTE SOUJANYA HANUMANT               MOTHER : SIMINTA                  PRN :72023531G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  049/070  079/100    ---      ---      ---    79   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -6315,7 +6132,6 @@ FIRST YEAR SGPA : 9.27, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243184 NAME : SAURABH DATTA SHELAKE                   MOTHER : SUREKHA                  PRN :72162827D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  28#/070  058/100    ---      ---      ---    58   03     D   06  18  ---  4#
 204182 DIGITAL CIRCUITS                 030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
@@ -6352,7 +6168,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243185 NAME : SAWANT PRATHAMESH VIJAY                 MOTHER : VARSHA VIJAY SAWANT      PRN :72023536H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -6384,7 +6199,6 @@ FIRST YEAR SGPA : 9.32, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243186 NAME : SHAIKH KAYUM PIRMOHAMMAD                MOTHER : SHABANA                  PRN :72162828B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -6421,7 +6235,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243187 NAME : SHAIKH WASEF AHMED SHAIKH ATEF AHMED    MOTHER : ATIYA KHATOON            PRN :72023541D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -6453,7 +6266,6 @@ FIRST YEAR SGPA : 8.32, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243188 NAME : SHANYA MISHRA                           MOTHER : MEENA MISHRA             PRN :72023542B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 026/030  069/070  095/100    ---      ---      ---    95   03     O   10  30  --- ---
@@ -6490,7 +6302,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243189 NAME : SHASHANK RAMESH GODBOLE                 MOTHER : NILIMA                   PRN :71814908E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -6522,7 +6333,6 @@ FIRST YEAR SGPA : 9.07, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243190 NAME : SHENDE SHASHANK BHAURAO                 MOTHER : SHOBHA SHENDE            PRN :72023548M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -6559,7 +6369,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243191 NAME : SHINDE YOGESHWARY PRAKASH               MOTHER : SHINDE PUSHPA PRAKASH    PRN :72023574L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -6591,7 +6400,6 @@ FIRST YEAR SGPA : 9.41, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243192 NAME : SHIVAM TIWARI                           MOTHER : ALKA TIWARI              PRN :72023579M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -6628,7 +6436,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243193 NAME : SHRAVANI RAVSAHEB JADHAV                MOTHER : ALKA RAVSAHEB JADHAV     PRN :72162829L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  031/070  061/100    ---      ---      ---    61   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
@@ -6660,7 +6467,6 @@ FIRST YEAR SGPA : 8.07, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243194 NAME : SHREENAND RAJENDRA NAIK                 MOTHER : KALPANA RAJENDRA NAIK    PRN :72162830D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  049/070  079/100    ---      ---      ---    79   03     B   08  24  --- ---
@@ -6697,7 +6503,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243195 NAME : SHRINAND VITHALRAO BATTULWAD            MOTHER : SARSWATI VITHAL BATTULWAD PRN :71906951D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -6729,7 +6534,6 @@ FIRST YEAR SGPA : 8.27, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243196 NAME : SHROTE BHAGYASHREE MOHAN                MOTHER : MADHURI                  PRN :72023583K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -6766,7 +6570,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243197 NAME : SHRUJA KISHOR PATIL                     MOTHER : KANCHAN KISHOR PATIL     PRN :72023584H CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -6798,7 +6601,6 @@ FIRST YEAR SGPA : 9.64, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243198 NAME : SHRUNGESH B SANT                        MOTHER : HIRA B SANT              PRN :72023585F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  048/070  078/100    ---      ---      ---    78   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -6835,7 +6637,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243199 NAME : SHUBHAM JADHAV                          MOTHER : KAMAL JADHAV             PRN :72023589J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
@@ -6867,7 +6668,6 @@ FIRST YEAR SGPA : 9.43, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243200 NAME : SINGH RAHUL SANJAY KUMAR                MOTHER : ARCHANA SANJAY KUMAR SINGHPRN :72023597K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -6904,7 +6704,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243201 NAME : SIRSAT AKSHAY RAM                       MOTHER : KAVITA                   PRN :71409486C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 028/030  041/070  069/100    ---      ---      ---    69   03     C   07  21  --- ---
@@ -6936,7 +6735,6 @@ FIRST YEAR SGPA : 8.61, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243202 NAME : SONJE SAKSHI DEEPAK                     MOTHER : ARCHANA DEEPAK SONJE     PRN :72023609G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -6973,7 +6771,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243203 NAME : SONJE VRATESH SHARAD                    MOTHER : NILIMA                   PRN :72023610L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -7005,7 +6802,6 @@ FIRST YEAR SGPA : 9.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243204 NAME : SONTAKKE VYANKATESH VIJAYKUMAR          MOTHER : JAYA VIJAYKUMAR SONTAKKE PRN :72023611J CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -7042,7 +6838,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243205 NAME : SOURAV KUMAR                            MOTHER : MEERA DEVI               PRN :72023612G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -7074,7 +6869,6 @@ FIRST YEAR SGPA : 9.14, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243206 NAME : SURYANSH PRASAD                         MOTHER : POONAM PRASAD            PRN :72023618F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  039/070  069/100    ---      ---      ---    69   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  049/070  079/100    ---      ---      ---    79   03     B   08  24  --- ---
@@ -7111,7 +6905,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243207 NAME : SWAMI ABHIJEET BASWARAJ                 MOTHER : SUNITA                   PRN :71907728B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              029/030  034/070  063/100    ---      ---      ---    63   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 028/030  042/070  070/100    ---      ---      ---    70   03     B   08  24  --- ---
@@ -7143,7 +6936,6 @@ FIRST YEAR SGPA : 7.59, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243208 NAME : TALELE NITAL YUVARAJ                    MOTHER : VAISHALI                 PRN :72023627E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -7180,7 +6972,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243209 NAME : TANYA ANAND                             MOTHER : ANJANA SAHU              PRN :72023633K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
@@ -7212,7 +7003,6 @@ FIRST YEAR SGPA : 9.07, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243210 NAME : TARLEKAR SANJANA NITIN                  MOTHER : SUJATA NITIN TARLEKAR    PRN :72023636D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  052/070  082/100    ---      ---      ---    82   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -7249,7 +7039,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243211 NAME : TELANG UTKARSHAA AMOL                   MOTHER : VAISHALI                 PRN :72023640B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  032/070  062/100    ---      ---      ---    62   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  056/070  086/100    ---      ---      ---    86   03     A   09  27  --- ---
@@ -7281,7 +7070,6 @@ FIRST YEAR SGPA : --, TOTAL CREDITS EARNED : 41
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243212 NAME : TILEKAR POOJA BALU                      MOTHER : TILEKAR RANI BALU        PRN :72162831B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  039/070  069/100    ---      ---      ---    69   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -7318,7 +7106,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243213 NAME : TIWARI HARSH RAMKRISHNA                 MOTHER : PRAMILA TIWARI           PRN :72023650K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
@@ -7350,7 +7137,6 @@ FIRST YEAR SGPA : 9.18, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243214 NAME : TRIBHUWAN ASTITVA ASHISH                MOTHER : TRIBHUWAN GAYATRI ASHISH PRN :72023653D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -7387,7 +7173,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243215 NAME : TRIPTI GIRI                             MOTHER : NUTAN GIRI               PRN :72023654B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -7419,7 +7204,6 @@ FIRST YEAR SGPA : 9.75, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243216 NAME : TUPEKAR PAYAL BHAGWAN                   MOTHER : SADHANA                  PRN :72023655L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
@@ -7456,7 +7240,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243217 NAME : UBALE AKANKSHA DNYANESHWAR              MOTHER : RUKHMINI DNYANESHWAR UBALEPRN :72023657G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  063/070  093/100    ---      ---      ---    93   03     O   10  30  --- ---
@@ -7488,7 +7271,6 @@ FIRST YEAR SGPA : 9.23, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243218 NAME : UMRE UTKARSH RAJENDRA                   MOTHER : VAISHALI UMRE            PRN :72023659C CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  059/070  089/100    ---      ---      ---    89   03     A   09  27  --- ---
@@ -7525,7 +7307,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243219 NAME : UTKARSH JAMBHULKAR                      MOTHER : SANGITA JAMBHULKAR       PRN :72023660G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  035/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -7557,7 +7338,6 @@ FIRST YEAR SGPA : 8.89, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243220 NAME : VALSANGE SAKSHI BASAWARAJ               MOTHER : VALSANGE VIJAYA BASAWARAJPRN :72023662c CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
@@ -7594,7 +7374,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243221 NAME : VEER SONALI JAYWANT                     MOTHER : RUPALI                   PRN :72023668B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -7626,7 +7405,6 @@ FIRST YEAR SGPA : 9.32, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243222 NAME : VHASURE SNEHAL SURYAKANT                MOTHER : VHASURE VIMAL SURYAKANT  PRN :72023670D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              027/030  036/070  063/100    ---      ---      ---    63   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -7663,7 +7441,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243223 NAME : VINKARE CHAITALI SATVA                  MOTHER : LEELAWATI                PRN :72023674G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
@@ -7695,7 +7472,6 @@ FIRST YEAR SGPA : 9.48, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243224 NAME : VITEKAR MANGESH SHASHIKANT              MOTHER : MEDINI VITEKAR           PRN :72023678K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -7732,7 +7508,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243225 NAME : WADEKAR UMESH KASHINATH                 MOTHER : TARABAI KASHINATH WADEKARPRN :72162832L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              026/030  039/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
 204182 DIGITAL CIRCUITS                 026/030  070/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -7764,7 +7539,6 @@ FIRST YEAR SGPA : 9.20, TOTAL CREDITS EARNED : 44[ RRB ]
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243226 NAME : WADGAONKAR SHANTANU CHANDRASHEKHAR      MOTHER : SHARDA                   PRN :72023680M CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
@@ -7801,7 +7575,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243227 NAME : WAGHMARE SINDHUTAI RAMA                 MOTHER : RANJENABAI               PRN :71907801G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  042/070  072/100    ---      ---      ---    72   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 017/030  048/070  065/100    ---      ---      ---    65   03     C   07  21  --- ---
@@ -7833,7 +7606,6 @@ FIRST YEAR SGPA : 7.25, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243228 NAME : WALAKATE NISHANT NIVRUTTI               MOTHER : VAISHALI NIVRUTTI WALAKATEPRN :72023691G CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -7870,7 +7642,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243229 NAME : WANKHADE VIPIN DILIP                    MOTHER : NEETA WANKHADE           PRN :72023695K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
 204182 DIGITAL CIRCUITS                 030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
@@ -7902,7 +7673,6 @@ FIRST YEAR SGPA : 9.52, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243230 NAME : YADAV HRISHIKESH BAJIRAO                MOTHER : SANGITA                  PRN :72023703D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  045/070  075/100    ---      ---      ---    75   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
@@ -7939,7 +7709,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243231 NAME : YADAV SHIVAM AMARDEEP                   MOTHER : RENU AMARDEEP YADAV      PRN :72023705L CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  029/070  059/100    ---      ---      ---    59   03     D   06  18  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -7971,7 +7740,6 @@ FIRST YEAR SGPA : --, TOTAL CREDITS EARNED : 40
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243232 NAME : YERNE MAYANK MAHESH                     MOTHER : SULOCHANA YERNE          PRN :72023711E CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  067/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
@@ -8008,7 +7776,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243233 NAME : ZAMARE SARVESH DINKAR                   MOTHER : YOGITA DINKAR ZAMARE     PRN :72023716F CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
 204182 DIGITAL CIRCUITS                 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
@@ -8040,7 +7807,6 @@ FIRST YEAR SGPA : 8.64, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243234 NAME : ZAWARE SARTHAK NAMDEO                   MOTHER : SUCHETA                  PRN :72023717D CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS              030/030  041/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS                 030/030  057/070  087/100    ---      ---      ---    87   03     A   09  27  --- ---
@@ -8077,7 +7843,6 @@ BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)
 ..................................................................................................................................
 
 SEAT NO.: S190243235 NAME : BHOSALE JAYRAJ JAYSINGH                 MOTHER : BHOSALE JAYSHREE JAYSINGHPRN :72022899K CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS            * 022/030  049/070  071/100    ---      ---      ---    71   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS               * 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
@@ -8108,7 +7873,6 @@ FIRST YEAR SGPA : 8.80, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
 
 SEAT NO.: S190243236 NAME : SHADAB HUSSAIN                          MOTHER : AFSHANA                  PRN :71907616B CLG.: DYPIT[24]
-COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
 204181 ELECTRONIC CIRCUITS            * 025/030  049/070  074/100    ---      ---      ---    74   03     B   08  24  --- ---
 204182 DIGITAL CIRCUITS               * 024/030  057/070  081/100    ---      ---      ---    81   03     A   09  27  --- ---

@@ -1,0 +1,29 @@
+SEAT NO.: S190243002 NAME : ADMANE PARTH SUDHIR                     MOTHER : RUPALI SUDHIR ADMANE     PRN :72022819M CLG.: DYPIT[24]
+SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
+204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
+204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
+204183 ELECTRICAL CIRCUITS              030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
+204184 DATA STRUCTURES                  030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204185 ELECTRONIC CIRCUIT LAB             ---      ---      ---      ---    030/050    ---    60   01     C   07  07  --- ---
+204186 DIGITAL CIRCUITS LAB               ---      ---      ---      ---    042/050    ---    84   01     A   09  09  --- ---
+204187 ELECTRICAL CIRCUIT LAB             ---      ---      ---    022/025    ---      ---    88   01     A   09  09  --- ---
+204188 DATA STRUCTURES LAB                ---      ---      ---      ---      ---    021/025  84   01     A   09  09  --- ---
+204189 ELECTRONIC SKILL DEVELOPMENT       ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+207005 ENGINEERING MATHEMATICS III      030/030  035/070  065/100    ---      ---      ---    65   04     C   07  28  --- ---
+207005 ENGINEERING MATHEMATICS III        ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+
+SEM.:2
+204191 SIGNALS & SYSTEMS              * 024/030  070/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
+204191 SIGNALS & SYSTEMS              *   ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+204192 CONTROL SYSTEMS                * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204193 PRINCIPLES OF COMMU. SYSTEMS   * 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
+204194 OBJECT ORIENTED PROGRAMMING    * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204195 SIGNALS & CONTROL SYSTEM LAB   *   ---      ---      ---    047/050    ---      ---    94   01     O   10  10  --- ---
+204196 PRINCIPLE OF COMMU. SYS. LAB   *   ---      ---      ---      ---    035/050    ---    70   01     B   08  08  --- ---
+204197 OOPS LAB                       *   ---      ---      ---      ---      ---    036/050  72   01     B   08  08  --- ---
+204198 DATA ANALYTICS LAB             *   ---      ---      ---      ---      ---    023/025  92   01     O   10  10  --- ---
+204199 EMPLOYABILITY SKILL DEV.       *   ---      ---      ---    046/050    ---      ---    92   03     O   10  30  --- ---
+204200 PROJECT BASED LEARNING         *   ---      ---      ---    044/050    ---      ---    88   02     A   09  18  --- ---
+204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+FIRST YEAR SGPA : 9.32, TOTAL CREDITS EARNED : 44
